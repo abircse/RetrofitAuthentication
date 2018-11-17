@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitAuthentication</string>
+
+
+    <string name="pref_file">retrofitauthentication</string>
+    <string name="pref_login_status">retrofitauthentication_login_status</string>
+    <string name="pref_user_name">retrofitauthentication_login_user_name</string>
+
+</resources>
